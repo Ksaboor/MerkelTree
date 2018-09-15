@@ -17,6 +17,6 @@ public class App {
         System.out.println("This will be place in data column of our blocks");
         System.out.println("root: " + merkleTrees.getRoot());
     }
-  
+
     }
 
